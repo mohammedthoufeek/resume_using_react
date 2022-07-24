@@ -1,6 +1,6 @@
 header{
-    height: 150vh;
-    padding-top: 7rem;
+    height: 120vh;
+    padding-top: 2rem;
     overflow: hidden;
 }
 
@@ -27,7 +27,7 @@ header{
     gap: 0.8rem;
     position: absolute;
     left: 0%;
-    bottom: 3rem;
+    bottom: 5rem;
     
 }
 
@@ -44,7 +44,7 @@ header{
     height: 50rem;
     position: absolute;
     margin-top: 4rem;
-    margin-left: 35%;
+    margin-left: 33%;
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
     padding: 0rem 1.5rem 1.5rem 1.5rem;
@@ -96,10 +96,10 @@ header{
 
 @media screen and (max-width:900px) {
     header{
-        height: 100vh;
+        height: 150vh;
     }
     .me{
-        margin-left: 5%;
+        margin-left: 3%;
     }
     
 }
