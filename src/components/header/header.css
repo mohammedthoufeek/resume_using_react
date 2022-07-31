@@ -96,7 +96,7 @@ header{
 
 @media screen and (max-width:900px) {
     header{
-        height: 150vh;
+        height: 100vh;
     }
     .me{
         margin-left: 3%;
