@@ -68,7 +68,7 @@
     color: var(--color-light);
 }
 
-@media screen and(max-width:1024px) {
+@media screen and (max-width:1024px) {
     .about__container{
         grid-template-columns: 2fr;
         gap: 0;
@@ -86,7 +86,7 @@
 
 }
 
-@media screen and(max-width:600px) 
+@media screen and (max-width:600px) 
 {
     .about__me{
         width: 65%;
