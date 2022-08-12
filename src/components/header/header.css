@@ -41,10 +41,11 @@ header{
 /* =======================ME=======================*/
 .me{
     width: 22rem;
-    height: 50rem;
+    height: 30rem;
     position: absolute;
+    left: calc(50% - 11rem);
     margin-top: 4rem;
-    margin-left: 33%;
+    /* margin-left: 35%; */
     border-radius: 12rem 12rem 0 0;
     overflow: hidden;
     padding: 0rem 1.5rem 1.5rem 1.5rem;
